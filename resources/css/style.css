@@ -1,0 +1,32 @@
+* {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image:url();
+}
+
+li {
+  font-size: 18px;
+  color: white;
+}
+
+.section h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.section h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
